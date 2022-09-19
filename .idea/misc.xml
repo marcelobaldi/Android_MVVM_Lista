@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/00pAndJavaA/02Camadas_LiveData/1Camadas2/app/src/main/res/layout/activity_dog.xml" value="0.25" />
+        <entry key="..\:/00pAndJavaA/04Assinc_LiveData/1Direto/Camadas1_Exemp0/app/src/main/res/layout/activity_dog.xml" value="0.25" />
+        <entry key="..\:/00pAndJavaA/04Assinc_LiveData/2Direto/Camadas1/app/src/main/res/layout/activity_dog.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/04Assinc_LiveData/2Direto/Camadas2_Exemp1/app/src/main/res/layout/activity_dog.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/04Assinc_LiveData/3Listener/Camadas2/app/src/main/res/layout/activity_dog.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/04Camadas_LiveData/1Camadas/1Ca2/app/src/main/res/layout/activity_dog.xml" value="0.25" />
+        <entry key="..\:/00pAndJavaA/05DesignPattern_MVVM/1Extends/1ViewModel/Camadas2/app/src/main/res/layout/activity_dog.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/0Daniel/01MVVM_Camadas/app/src/main/res/layout/activity_dog.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/0Daniel/02MVVM_Lista/app/src/main/res/drawable-v24/ic_baseline_add_alarm_24.xml" value="0.1045" />
+        <entry key="..\:/00pAndJavaA/0Daniel/02MVVM_Lista/app/src/main/res/layout/activity_dog.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/0Daniel/02MVVM_Lista/app/src/main/res/layout/activity_dog_adapter.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/0Daniel/02MVVM_Lista/app/src/main/res/layout/activity_dog_lista.xml" value="0.21041666666666667" />
+        <entry key="..\:/00pAndJavaA/0Daniel/02MVVM_Lista/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/00pAndJavaA/0Daniel/02MVVM_Lista/app/src/main/res/layout/adapter_dog_linha.xml" value="0.25" />
+        <entry key="..\:/00pAndJavaA/Camadas_LiveData/0Base/Base1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/00pAndJavaA/Camadas_LiveData/1Base/Base01/app/src/main/res/layout/activity_dog.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/Camadas_LiveData/1Base/Base1/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/Camadas_LiveData/1Base/Base2/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/00pAndJavaA/Camadas_LiveData/1Base/Camadas2/app/src/main/res/layout/activity_dog.xml" value="0.3234375" />
+        <entry key="..\:/MyGit/Android_MVVM_Daniel/app/src/main/res/layout/activity_dog.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/marce/Desktop/aTeste/Android_MVVM_Daniel-main/app/src/main/res/layout/activity_dog.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

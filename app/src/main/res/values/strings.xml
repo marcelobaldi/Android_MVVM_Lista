@@ -1,0 +1,13 @@
+<resources>
+    <!-- Projeto -->
+    <string name="app_name">LivedataBase1</string>
+
+    <!-- Dog -->
+    <string name="titulo">Título ...</string>
+    <string name="nome">Nome Digitado ...</string>
+    <string name="idade">Idade ...</string>
+    <string name="lista_dogs">Lista Dogs</string>
+
+    <string name="dog_lista_titulo">Lista de Dogs</string>
+    <string name="dog_titulo">Dog</string>
+</resources>
